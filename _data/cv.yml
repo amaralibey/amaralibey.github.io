@@ -2,96 +2,106 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Amar Ali-bey
+    - name: Location
+      value: Montréal, Canada
     - name: Languages
-      value: English, German
+      value: English, Français, عربي 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D.
+      institution: Laval University, Québec, Canada
+      year: 2015 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Computer Vision and Machine Learning.
+        - title: Visual Place Recognition.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Image Retrieval.
+            - Contrastive Learning.
+            - Large Datasets Collection.
+    - title: Masters Internship 
+      institution: Université de Technologie de Compiègne (UTC), France
+      year: 2013 - 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Vehicle Routing Problem.
+        - Combinatorial Optimization.
+        - Simulated Annealing and Genetic Algorithms.
 
+    - title: B.S. in Software Engineering (with honors) 
+      institution: National Higher School of Computer Science (ESI), Algiers, Algeria
+      year: 2009 - 2014
+      description:
+        - Advanced Algorithms and Data Structures.
+        - OS and Computer Architecture.
+        - Software Architecture.
+        
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Teaching Assistant
+      institution: Laval University, Québec, Canada
+      year: 2017 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Advanced Techniques In Artificial Intelligence (IFT-4102/7025)
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Created project assignments.
+            - Exams correction.
+            - Consultant for technical questions.
+        - title: Deep Learning (GLO-4030/7030)
+          contents:
+            - Designed an InClass competition for the course.
+            - Consultant for technical questions.
+        - title: Practical Machine Learning (GLO-7050)
+          contents:
+            - Taught the CNN part of the course.
+            - Administered two Kaggle InClass competitions.
+        - title: Introduction to Mobile Robotics (GLO-4001/7021)
+          contents:
+            - Taught bi-weekly laboratory.
+            - Exams correction.
+        - title: Exam and Homework correction.
+          contents:
+            - Advanced Programming In C ++ (GIF-1003)
+            - Introduction to Programming (IFT-1004)
+            - Mathematics for Computer Science (MAT-1919)
+    
+    - title: The Autonomous Vehicle of Laval University (VAUL)
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Developed cone detectors using OpenCV, to accelerate cone annotation in circuit videos.
+        - Trained YOLO (You Only Look Once) models capable of real-time cone detection in video streams.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/amaralibey/gsv-cities">GSV-Cities</a>
+      year: 2022 - now
+      description: An open source framework for training and evaluating visual place recognition models.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision and Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Image Geo-Localization.
+        - Image Retrieval.
+        - Person Re-Identification.
+        - Face Recognition.
+        - Semantic Segmentation.
+        - Object Detection.
+        - NLP.
+
+- title: Technical Skills
+  type: list
+  contents:
+    - <b>Expert Level:</b> Python, PyTorch, Lightning AI, FAISS, OpenCV. 
+    - <b>Good Level:</b> C, C++. 
+    - <b>Intermediate Level:</b> Git, Latex, Linux, SQL, HTML, CSS, PHP, Java. 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Skiing, Cycling, Tennis, Soccer.
