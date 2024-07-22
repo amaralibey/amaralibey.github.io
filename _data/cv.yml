@@ -16,16 +16,16 @@
       year: 2017 - 2023
       description:
         - Computer Vision and Machine Learning.
-        - title: Deep Representation Learning for Visual Place Recognition
+        - Thesis: Deep Representation Learning for Visual Place Recognition
           contents:
             - Image Retrieval
             - Contrastive Learning
             - Large Datasets Collection
-    - title: Masters
+    - title: Master
       institution: Laval University, Québec, Canada
       year: 2015 - 2017
       description:
-        - Artificial Intelligence.
+        - Artificial Intelligence. [Transitioned to Ph.D. program]
           contents:
             - Mobile Robotics
             - Machine Learning
@@ -34,10 +34,9 @@
       institution: Université de Technologie de Compiègne (UTC), France
       year: 2013 - 2014
       description:
-        - Vehicle Routing Problem.
-        - Combinatorial Optimization.
-        - Simulated Annealing and Genetic Algorithms.
-
+        - Vehicle Routing Problem
+        - Combinatorial Optimization
+        - Simulated Annealing and Genetic Algorithms
     - title: B.S. in Software Engineering (with honors) 
       institution: National Higher School of Computer Science (ESI), Algiers, Algeria
       year: 2009 - 2014
@@ -53,41 +52,39 @@
       institution: Self-Employed
       year: 2018 - 2024
       description:
-        - title: Short/Medium term interventions with high impact, primarily focused on enhancing the deep learning pipeline.
+        - Short/Medium term interventions with high impact, primarily focused on enhancing the deep learning pipeline.
           contents:
             - Football players Re-Identification in video streams
             - Traffic cone detection
             - Semantic segmentation for urban scenes
             - Helmet detection for safety in work sites
-            - Enhanced the deep learning pipeline for object tracking and counting
-
+            - Enhanced the deep learning pipeline for object tracking and counting in videos
     - title: Graduate Teaching Assistant
       institution: Laval University, Québec, Canada
       year: 2017 - 2023
       description:
         - title: Advanced Techniques In Artificial Intelligence (IFT-4102/7025)
           contents:
-            - Created project assignments.
-            - Exams correction.
-            - Consultant for technical questions.
+            - Created project assignments
+            - Exams correction
+            - Consultant for technical questions
         - title: Deep Learning (GLO-4030/7030)
           contents:
-            - Designed an InClass competition for the course.
-            - Consultant for technical questions.
+            - Designed an InClass competition for the course
+            - Consultant for technical questions
         - title: Practical Machine Learning (GLO-7050)
           contents:
-            - Taught the CNN part of the course.
-            - Administered two Kaggle InClass competitions.
+            - Taught the CNN part of the course
+            - Administered two Kaggle InClass competitions
         - title: Introduction to Mobile Robotics (GLO-4001/7021)
           contents:
-            - Taught bi-weekly laboratory.
+            - Taught bi-weekly laboratory
             - Exams correction.
         - title: Exam and Homework correction.
           contents:
             - Advanced Programming In C ++ (GIF-1003)
             - Introduction to Programming (IFT-1004)
             - Mathematics for Computer Science (MAT-1919)
-    
     - title: The Autonomous Vehicle of Laval University (VAUL)
       year: 2018
       description:
@@ -99,7 +96,7 @@
   contents:
     - title: <a href="https://github.com/amaralibey/OpenVPRLab">OpenVPRLab</a>
       year: 2024 - now
-      description: An Open-source Deep Learning Framework for Visual Place Recognition.
+      description: OpenVPRLab is a comprehensive open-source framework for Visual Place Recognition (VPR). Designed to facilitate the training and iterative development of deep models for VPR, it simplifies the process for researchers and developers to achieve replicable state-of-the-art performance.
     - title: <a href="https://github.com/amaralibey/gsv-cities">GSV-Cities</a>
       year: 2022 - 2023
       description: A large-scale dataset for training deep visual place recognition models.
