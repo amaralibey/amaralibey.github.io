@@ -6,22 +6,31 @@
     - name: Location
       value: Montréal, Canada
     - name: Languages
-      value: English, Français, عربي 
+      value: English, Français
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D.
       institution: Laval University, Québec, Canada
-      year: 2015 - 2023
+      year: 2017 - 2023
       description:
         - Computer Vision and Machine Learning.
-        - title: Visual Place Recognition.
+        - title: Deep Representation Learning for Visual Place Recognition
           contents:
-            - Image Retrieval.
-            - Contrastive Learning.
-            - Large Datasets Collection.
-    - title: Masters Internship 
+            - Image Retrieval
+            - Contrastive Learning
+            - Large Datasets Collection
+    - title: Masters
+      institution: Laval University, Québec, Canada
+      year: 2015 - 2017
+      description:
+        - Artificial Intelligence.
+          contents:
+            - Mobile Robotics
+            - Machine Learning
+            - Combinatorial Optimization
+    - title: Internship 
       institution: Université de Technologie de Compiègne (UTC), France
       year: 2013 - 2014
       description:
@@ -40,6 +49,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Deep Learning Consultant
+      institution: 
+      year: 2018 - 2024
+      description:
+        - title: Short/Medium term interventions with high impact, primarily focused on enhancing the deep learning pipeline.
+          contents:
+            - Football players Re-Identification in video streams
+            - Traffic cone detection
+            - Semantic segmentation for urban scenes
+            - Helmet detection for safety in work sites
+            - Enhanced the deep learning pipeline for object tracking and counting
+
     - title: Graduate Teaching Assistant
       institution: Laval University, Québec, Canada
       year: 2017 - 2023
@@ -70,15 +91,18 @@
     - title: The Autonomous Vehicle of Laval University (VAUL)
       year: 2018
       description:
-        - Developed cone detectors using OpenCV, to accelerate cone annotation in circuit videos.
-        - Trained YOLO (You Only Look Once) models capable of real-time cone detection in video streams.
+        - Developed cone detectors using OpenCV, to accelerate cone annotation in circuit videos
+        - Trained YOLO (You Only Look Once) models capable of real-time cone detection in video streams
 
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/amaralibey/OpenVPRLab">OpenVPRLab</a>
+      year: 2024 - now
+      description: An Open-source Deep Learning Framework for Visual Place Recognition.
     - title: <a href="https://github.com/amaralibey/gsv-cities">GSV-Cities</a>
-      year: 2022 - now
-      description: An open source framework for training and evaluating visual place recognition models.
+      year: 2022 - 2023
+      description: A large-scale dataset for training deep visual place recognition models.
 
 
 - title: Academic Interests
@@ -86,20 +110,22 @@
   contents:
     - title: Computer Vision and Machine Learning
       items: 
-        - Image Geo-Localization.
-        - Image Retrieval.
-        - Person Re-Identification.
-        - Face Recognition.
-        - Semantic Segmentation.
-        - Object Detection.
-        - NLP.
+        - Representation Learning
+        - Contrastive Learning
+        - Image Geo-Localization
+        - Image Retrieval
+        - Person Re-Identification
+        - Face Recognition
+        - Semantic Segmentation
+        - Object Detection
+        - NLP
 
 - title: Technical Skills
   type: list
   contents:
     - <b>Expert Level:</b> Python, PyTorch, Lightning AI, FAISS, OpenCV. 
     - <b>Good Level:</b> C, C++. 
-    - <b>Intermediate Level:</b> Git, Latex, Linux, SQL, HTML, CSS, PHP, Java. 
+    - <b>Intermediate Level:</b> Latex, Linux, SQL, HTML, CSS, PHP, Java. 
 
 - title: Other Interests
   type: list
