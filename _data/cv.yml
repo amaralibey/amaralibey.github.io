@@ -15,8 +15,8 @@
       institution: Laval University, Québec, Canada
       year: 2017 - 2023
       description:
-        - Thesis title - Deep Representation Learning for Visual Place Recognition
-          description:
+        - Thesis title Deep Representation Learning for Visual Place Recognition:
+          contents:
             - Image Retrieval
             - Contrastive Learning
             - Large Datasets Collection
