@@ -16,7 +16,7 @@
       year: 2017 - 2023
       description:
         - Computer Vision and Machine Learning.
-        - Thesis: Deep Representation Learning for Visual Place Recognition
+        - Deep Representation Learning for Visual Place Recognition:
           contents:
             - Image Retrieval
             - Contrastive Learning
@@ -41,9 +41,9 @@
       institution: National Higher School of Computer Science (ESI), Algiers, Algeria
       year: 2009 - 2014
       description:
-        - Advanced Algorithms and Data Structures.
-        - OS and Computer Architecture.
-        - Software Architecture.
+        - Advanced Algorithms and Data Structures
+        - OS and Computer Architecture
+        - Software Architecture
         
 - title: Experience
   type: time_table
@@ -52,7 +52,7 @@
       institution: Self-Employed
       year: 2018 - 2024
       description:
-        - Short/Medium term interventions with high impact, primarily focused on enhancing the deep learning pipeline.
+        - Short/Medium term interventions with high impact, primarily focused on enhancing the deep learning pipeline:
           contents:
             - Football players Re-Identification in video streams
             - Traffic cone detection
@@ -63,24 +63,24 @@
       institution: Laval University, Québec, Canada
       year: 2017 - 2023
       description:
-        - title: Advanced Techniques In Artificial Intelligence (IFT-4102/7025)
+        - Advanced Techniques In Artificial Intelligence (IFT-4102/7025):
           contents:
             - Created project assignments
             - Exams correction
             - Consultant for technical questions
-        - title: Deep Learning (GLO-4030/7030)
+        - Deep Learning (GLO-4030/7030):
           contents:
             - Designed an InClass competition for the course
             - Consultant for technical questions
-        - title: Practical Machine Learning (GLO-7050)
+        - Practical Machine Learning (GLO-7050):
           contents:
             - Taught the CNN part of the course
             - Administered two Kaggle InClass competitions
-        - title: Introduction to Mobile Robotics (GLO-4001/7021)
+        - Introduction to Mobile Robotics (GLO-4001/7021):
           contents:
             - Taught bi-weekly laboratory
-            - Exams correction.
-        - title: Exam and Homework correction.
+            - Exams correction
+        - Exam and Homework correction:
           contents:
             - Advanced Programming In C ++ (GIF-1003)
             - Introduction to Programming (IFT-1004)
@@ -101,7 +101,6 @@
       year: 2022 - 2023
       description: A large-scale dataset for training deep visual place recognition models.
 
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -120,11 +119,11 @@
 - title: Technical Skills
   type: list
   contents:
-    - <b>Expert Level:</b> Python, PyTorch, Lightning AI, FAISS, OpenCV. 
-    - <b>Good Level:</b> C, C++. 
-    - <b>Intermediate Level:</b> Latex, Linux, SQL, HTML, CSS, PHP, Java. 
+    - <b>Expert Level:</b> Python, PyTorch, Lightning AI, FAISS, OpenCV
+    - <b>Good Level:</b> C, C++
+    - <b>Intermediate Level:</b> Latex, Linux, SQL, HTML, CSS, PHP, Java
 
 - title: Other Interests
   type: list
   contents:
-    - Skiing, Cycling, Tennis, Soccer.
+    - Skiing, Cycling, Tennis, Soccer
