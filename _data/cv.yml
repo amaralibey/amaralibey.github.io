@@ -15,7 +15,7 @@
       institution: Laval University, Québec, Canada
       year: 2017 - 2023
       description:
-        - Thesis title - Deep Representation Learning for Visual Place Recognition
+        - Thesis title: Deep Representation Learning for Visual Place Recognition
         - title: Topics of Research
           contents:
             - Image Retrieval
@@ -25,7 +25,7 @@
       institution: Laval University, Québec, Canada
       year: 2015 - 2017
       description:
-        - Explored various topics in AI [Transitioned to Ph.D. program]
+        - Explored various topics in AI, then transitioned to a Ph.D. program
         - title: Topics
           contents:
             - Mobile Robotics
@@ -55,7 +55,7 @@
       description:
         - title: Short/Medium term interventions with high impact, primarily focused on enhancing the deep learning pipeline.
           contents:
-            - Football players Re-Identification in video streams
+            - Football players Re-Identification
             - Traffic cone detection
             - Semantic segmentation for urban scenes
             - Helmet detection for safety in work sites
