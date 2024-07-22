@@ -24,8 +24,8 @@
       institution: Laval University, Québec, Canada
       year: 2015 - 2017
       description:
-        - Artificial Intelligence. [Transitioned to Ph.D. program]
-          description:
+        - Artificial Intelligence. [Transitioned to Ph.D. program]:
+          contents:
             - Mobile Robotics
             - Machine Learning
             - Combinatorial Optimization
