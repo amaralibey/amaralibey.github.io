@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. in Computer Vision and Machine Learning
+subtitle: I eat PyTorch for lunch!
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Machine Learning researcher with a Ph.D. from Laval University 🇨🇦. I teach machines to understand and remember locations like humans do. 
 
-I build AI models that actually work in the real world by designing better architectures and collecting high quality data.
+I build AI models that actually work in the real world by designing better architectures and collecting high quality data to train them.
 
 ##### **Interests**
 
