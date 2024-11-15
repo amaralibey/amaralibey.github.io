@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Open source code, model weights and datasets of my published works.
+description: Open source code, model weights and datasets of my published work.
 nav: true
 nav_order: 3
 ---
