@@ -5,9 +5,9 @@ permalink: /
 subtitle: I eat PyTorch for lunch!
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Montréal, QC, Canada</p>
     <p>amar.alibey#gmail.com</p>
