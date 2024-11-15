@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. in Computer Vision and Machine Learning
+subtitle: Ph.D. in Machine Learning
 
 profile:
   align: right
