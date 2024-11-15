@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: amaralibey
 gitlab_username: # your GitLab user name
-x_username: amaralibey# your X handle
+x_username: amaralibey
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: amaralibey # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can reach to me through LinkedIn or GitHub.
+  You can reach to me through LinkedIn or Twitter or by e-mail.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -152,8 +152,8 @@ disqus_shortname: # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: 
+    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
