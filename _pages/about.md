@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I'm a Computer Vision researcher with a Ph.D. from Laval University 🇨🇦, specializing in teaching machines to understand and remember locations like humans do. My work bridges research and real-world applications, with an emphasis on reliable AI solutions through optimized model architectures and high-quality data collection.
 
 
-##### **Interests:**
+**Interests:**
 
 * **AI in Robotics** : Applying vision-based localization and recognition techniques in robotics and autonomous systems.
 * **Multi-modal Learning** : Integrating diverse data types (e.g., images, sensor) to enhance model performance and decision-making.
