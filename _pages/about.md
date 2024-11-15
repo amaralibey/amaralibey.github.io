@@ -26,3 +26,6 @@ I'm a Computer Vision researcher with a Ph.D. from Laval University, specializin
 * **Multi-modal Learning**: Integrating diverse data types (e.g., images, sensor) to enhance model performance and decision-making.
 * **Computer Vision Tasks**: Image retrieval, object detection, segmentation, tracking, and more.
 * **OSS** : Contributing to and leading open-source initiatives.
+
+
+---
