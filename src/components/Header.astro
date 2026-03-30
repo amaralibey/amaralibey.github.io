@@ -1,18 +1,18 @@
 ---
 const navItems = [
-  { label: 'Home', href: '#' },
-  { label: 'About', href: '#about' },
-  { label: 'Projects', href: '#projects' },
+  { label: 'Home', href: '/' },
+  { label: 'Expertise', href: '#expertise' },
   { label: 'Publications', href: '#publications' },
+  { label: 'Projects', href: '#projects' },
 ];
 ---
 
 <header class="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-[var(--bg-color)]/80 border-b border-[var(--border-color)]">
   <div class="max-w-4xl mx-auto px-6 h-16 flex items-center justify-between">
-    <a href="#" class="font-bold text-xl tracking-tight bg-clip-text text-transparent bg-[image:var(--primary-gradient)]">
+    <a href="/" class="font-bold text-xl tracking-tight bg-clip-text text-transparent bg-[image:var(--primary-gradient)]">
       Amar Ali-bey
     </a>
-    
+
     <nav class="hidden md:flex items-center gap-6">
       {navItems.map((item) => (
         <a 

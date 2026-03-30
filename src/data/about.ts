@@ -1,19 +1,19 @@
 export const profile = {
   name: "Amar Ali-bey",
-  title: "Applied Research Scientist",
-  subtitle: "I eat PyTorch for lunch! 🍕",
-  location: "Montréal, QC, Canada",
-  email: "amar.alibey [at] gmail.com",
+  title: "ML Applied Research Scientist",
+  subtitle: "Developing state-of-the-art multimodal search for the next generation of AI.",
+  location: "Montréal, Canada",
+  email: "amar.alibey@gmail.com",
   image: "/assets/prof_pic.jpg",
   bio: [
-    "ML Applied Scientist working on search and retrieval systems. I design, train, and ship contrastive models and dense retrieval pipelines. Currently, I build the core search and video understanding stack for large-scale AI platforms. During my PhD, I was teaching robots to remember places like humans do through image retrieval, and published papers at CVPR, WACV, BMVC, and Neurocomputing."
+    "Building search and video understanding systems for large-scale AI at CoactiveAI. Previously, I spent my PhD teaching robots to navigate the world through image retrieval, publishing at CVPR, WACV, and BMVC along the way."
   ],
   interests: [
     "Multimodal Search",
     "Information Retrieval",
-    "Long video understanding",
-    "Model training and finetuning",
-    "Large-scale benchmarking",
+    "Long Video Understanding",
+    "Model Training and Finetuning",
+    "Large-scale Benchmarking",
     "Image-based Geo-Localization"
   ],
   socials: {
