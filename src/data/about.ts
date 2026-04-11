@@ -6,7 +6,7 @@ export const profile = {
   email: "amar.alibey@gmail.com",
   image: "/assets/prof_pic.jpg",
   bio: [
-    "Building search and video understanding systems for large-scale AI at CoactiveAI. Previously, I spent my PhD teaching robots to navigate the world through image retrieval, publishing at CVPR, WACV, and BMVC along the way."
+    "Building search and video understanding systems for large-scale AI at CoactiveAI. Previously, I spent my PhD teaching robots to navigate the world through image retrieval, publishing at top-tier conferences along the way."
   ],
   interests: [
     "Multimodal Search",

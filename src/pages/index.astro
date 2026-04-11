@@ -37,12 +37,12 @@ const sortedPapers = papers.sort((a, b) => b.year - a.year);
           ))}
         </div>
 
-        <div class="flex flex-wrap items-center justify-center md:justify-start gap-4 pt-4">
-          <a href="/assets/resume.pdf" target="_blank" class="px-5 py-2 text-sm rounded-full font-semibold bg-[var(--text-color)] text-[var(--bg-color)] hover:opacity-90 shadow-sm hover:shadow-md transition-all hover:-translate-y-0.5">
-            View Resume
-          </a>
+        <div class="flex flex-wrap items-center justify-center md:justify-start gap-3 pt-4">
           <a href={profile.socials.github} target="_blank" rel="noopener noreferrer" class="px-5 py-2 text-sm rounded-full font-semibold border border-[var(--border-color)] hover:border-[var(--text-color)] transition-all hover:-translate-y-0.5 flex items-center gap-2">
             GitHub
+          </a>
+          <a href={profile.socials.scholar} target="_blank" rel="noopener noreferrer" class="px-5 py-2 text-sm rounded-full font-semibold border border-[var(--border-color)] hover:border-[var(--text-color)] transition-all hover:-translate-y-0.5 flex items-center gap-2">
+            Scholar
           </a>
         </div>
       </div>
@@ -85,10 +85,10 @@ const sortedPapers = papers.sort((a, b) => b.year - a.year);
       </div>
     </section>
 
-    <!-- Technical Expertise Section -->
+    <!-- Expertise Section -->
     <section id="expertise" class="scroll-mt-32 space-y-8 animate-fade-in" style="animation-delay: 150ms;">
       <h2 class="text-3xl font-bold tracking-tight inline-block relative">
-        Technical Expertise
+        Expertise
         <div class="absolute -bottom-2 left-0 w-12 h-1 bg-[image:var(--primary-gradient)] rounded-full"></div>
       </h2>
       
